@@ -1,0 +1,12 @@
+metric_key,metric_name,unit,module,value_type,description,display_status,yellow_marked,source_cell,status_reason,is_core_indicator,display_order,reference_year,source_name
+household_loans_yi,住户贷款余额,亿元,核心指标,number,住户部门贷款余额,pending,True,Q35,黄色但现有数值为金融机构全部贷款而非住户贷款,True,1,2024,待核验住户口径来源
+population_wan,常住人口,万人,核心指标,number,统计期末常住人口,active,True,D35,黄色且已核验；采用官方精确值2622.8,True,2,2024,新疆维吾尔自治区2024年国民经济和社会发展统计公报
+disposable_income_yuan,居民人均可支配收入,元/人,核心指标,number,全体居民人均可支配收入,active,True,I35,黄色且已核验,True,3,2024,新疆维吾尔自治区2024年国民经济和社会发展统计公报
+household_deposits_yi,住户存款余额,亿元,核心指标,number,住户部门存款余额,pending,True,L35,黄色但现有数值为金融机构全部存款而非住户存款,True,4,2024,待核验住户口径来源
+consumption_expenditure_yuan,居民人均消费支出,元/人,核心指标,number,全体居民人均消费支出,active,True,N35,黄色且已核验；仅按2023年展示,True,5,2023,新疆维吾尔自治区2023年国民经济和社会发展统计公报
+gdp_per_capita_yuan,人均地区生产总值（人均GDP）,元/人,核心指标,number,按常住人口计算的人均地区生产总值,pending,True,Z35,黄色且数值已核验但Excel年份元数据冲突,True,6,2025,新疆维吾尔自治区2025年国民经济和社会发展统计公报
+financial_deposits_total_yi,金融机构本外币各项存款余额,亿元,区域金融市场,number,区域金融机构各项存款总额；不是住户存款,pending,True,L35,与住户存款核心指标严格分离；本轮隐藏数值,False,101,2024,2024年12月新疆金融统计数据报告
+financial_loans_total_yi,金融机构本外币各项贷款余额,亿元,区域金融市场,number,区域金融机构各项贷款总额；不是住户贷款,pending,True,Q35,与住户贷款核心指标严格分离；本轮隐藏数值,False,102,2024,2024年12月新疆金融统计数据报告
+urbanization_rate_pct,常住人口城镇化率,%,扩展指标,number,城镇常住人口占常住人口比重,inactive,False,E35,新疆行未标黄,False,201,2024,新疆维吾尔自治区2024年国民经济和社会发展统计公报
+urban_disposable_income_yuan,城镇居民人均可支配收入,元/人,扩展指标,number,城镇居民人均可支配收入,inactive,False,G35,新疆行未标黄,False,202,2023,新疆维吾尔自治区2023年国民经济和社会发展统计公报
+college_education_share_pct,大专及以上文化程度人口占比,%,扩展指标,number,大专及以上文化程度人口占常住人口比重,inactive,False,F35,新疆行未标黄,False,203,2020,新疆维吾尔自治区第七次全国人口普查主要数据

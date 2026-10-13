@@ -1,0 +1,7 @@
+key,label,category,unit,format,colorscale,data_mode,baseline_year
+population_wan,常住人口,人口指标,万人,"{:,.0f}",Blues,mock,2024
+disposable_income_yuan,人均可支配收入,经济指标,元/人,"{:,.0f}",YlOrRd,mock,2024
+deposits_per_capita_yuan,人均存款,金融指标,元/人,"{:,.0f}",Teal,mock,2024
+population_wan,常住人口,人口结构,万人,"{:,.1f}",Blues,real,2024
+disposable_income_yuan,居民人均可支配收入,收入与财富,元/人,"{:,.0f}",YlGnBu,real,2024
+consumption_expenditure_yuan,居民人均消费支出,收入与财富,元/人,"{:,.0f}",YlGnBu,real,2023

@@ -1,0 +1,7 @@
+excel_header,metric_key,verification_status,source_name,source_url,verification_note
+常住人口,population_wan,verified,新疆维吾尔自治区2024年国民经济和社会发展统计公报,https://www.xinjiang.gov.cn/xinjiang/tjgb/202503/f0578f74e4e04369af0ee82566586397.shtml,Excel原始值为2623万人；2024年官方精确值为2622.8万人
+居民人均可支配收入,disposable_income_yuan,verified,新疆维吾尔自治区2024年国民经济和社会发展统计公报,https://www.xinjiang.gov.cn/xinjiang/tjgb/202503/f0578f74e4e04369af0ee82566586397.shtml,2024年全体居民口径；已核验
+住户存款余额,household_deposits_yi,pending,2024年12月新疆金融统计数据报告,https://wulumuqi.pbc.gov.cn/wulumuqi/121730/2025031319123045062/index.html,原表名称为“住户存款余额”，但该数值实际对应“金融机构本外币各项存款余额”，不能作为住户存款使用
+居民人均消费支出,consumption_expenditure_yuan,verified,新疆维吾尔自治区2023年国民经济和社会发展统计公报,https://www.xinjiang.gov.cn/xinjiang/tjgb/202404/78f1b33dcaa94a9b83a8d291d0ff0461.shtml,2023年全体居民口径；已核验
+住户贷款余额,household_loans_yi,pending,2024年12月新疆金融统计数据报告,https://wulumuqi.pbc.gov.cn/wulumuqi/121730/2025031319123045062/index.html,原表名称为“住户贷款余额”，但该数值实际对应“金融机构本外币各项贷款余额”，不能作为住户贷款使用
+人均GDP,gdp_per_capita_yuan,pending,新疆维吾尔自治区2025年国民经济和社会发展统计公报,https://www.xinjiang.gov.cn/xinjiang/tjgb/202607/2bb53ad182344d03a31714993ecd71af.shtml,Excel指标值标注为2025年；指标字典年份尚未统一
